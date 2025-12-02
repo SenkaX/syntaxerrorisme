@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://votredomaine.com/sitemap.xml
+
+# Désactiver l'indexation des fichiers système
+Disallow: /storage/
+Disallow: /vendor/
+Disallow: /api/
